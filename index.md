@@ -4,7 +4,7 @@ avatar: yes
 ---
 
 I'm a PhD student in the Faculty of [Management and Economics](http://mef.kmust.edu.cn/), Kumming University of Science and Technology. My research interests are corporate finance, contract theory and market microstructure theory, Besides these, I'm a big fan of [GitHub](https://github.com/yihui), [CTeX](http://www.ctex.org), [R](http://www.r-project.org/) and [mathematica](http://www.wolfram.com/). My idols are [Ziguo He](http://faculty.chicagobooth.edu/zhiguo.he/index.html) and [Yin Wang](http://www.yinwang.org/), I hope I could publish papers in [JF] [1], [JCF](http://www.journals.elsevier.com/journal-of-corporate-finance/, "Journal of Corporate Finance
-") like Prof. He one day.
+") likes Prof. He one day.
 
 [1]: http://onlinelibrary.wiley.com/journal/10.1111/(ISSN)1540-6261        "Journal of Finance"
 
