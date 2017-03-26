@@ -2,8 +2,4 @@ markdown: kramdown
 permalink: /:year/:month/:title/
 url: http://peng-howard.github.io
 author: 彭浩
-<<<<<<< HEAD
 highlighter: rouge
-=======
-pygments: true
->>>>>>> origin/master
