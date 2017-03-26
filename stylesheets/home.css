@@ -11,8 +11,9 @@ line-height:30px;
 }
 
 .sitename {
-font-size:24px;
+font-size:32px;
 font-weight:700;
+margin-bottom: 10px;
 }
 }
 
@@ -56,17 +57,18 @@ font-family:Galdeano,"Hiragino Sans GB","Microsoft YaHei",Trebuchet,"Trebuchet M
 font-size:15px;
 line-height:30px;
 color:#555;
-background-color:#fff;
-margin:0;
+background-image: url('/stylesheets/bg.png');
+background-repeat: repeat !important;
+margin: 50px 0px 0px 0px;
 }
 
 a {
-color:#b9221f;
+color:#2dbe60;
 text-decoration:none;
 }
 
 a:hover {
-color:#771614;
+color:#236e25;
 text-decoration:none;
 }
 
@@ -82,7 +84,7 @@ width:700px;
 }
 
 p {
-font-size:15px;
+font-size: 18px;
 line-height:30px;
 color:#555;
 margin:0 0 15px;
@@ -193,7 +195,7 @@ padding:0 0 0 15px;
 
 blockquote p {
 margin-bottom:0;
-font-size:13px;
+font-size:16px;
 font-weight:300;
 line-height:25px;
 }
@@ -349,14 +351,15 @@ list-style:none;
 }
 
 .nav>li>a {
+font-size: 18px;
 display:block;
-background-color:#eee;
+background-color:#EAEAEA;
 }
 
 .nav>li>a:hover {
 text-decoration:none;
 color:#fff;
-background-color:#b9221f;
+background-color:#2dbe60;
 }
 
 .pills {
@@ -426,7 +429,7 @@ background-color:#468847;
 }
 
 .label-info {
-background-color:#3a87ad;
+background-color:#2ebe60;
 }
 
 .hide {
